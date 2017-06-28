@@ -1,0 +1,8 @@
+Baza de date fiind locala trebuie realizati:
+
+1.Click dreapta in Solution Explorer pe Database1.mdf si in meniul contextual aparut se alege Open.
+2.In Server Explorer click dreapta pe Proprieties si se copiaza Connection String.
+3.In Form1.cs pentru atributul privat connectionString se da paste la string-ul de conexiune copiat anterior.
+
+
+Pentru a selecta toate produsele este idicata ca data inferioara sa fie in 2014 pentru verificarea optima a programului.
